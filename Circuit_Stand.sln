@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CircuitStand", "CircuitStand.vcxproj", "{E9528B19-9D90-4644-AF69-8F6F1F04BDE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9528B19-9D90-4644-AF69-8F6F1F04BDE3}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{E9528B19-9D90-4644-AF69-8F6F1F04BDE3}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{E9528B19-9D90-4644-AF69-8F6F1F04BDE3}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{E9528B19-9D90-4644-AF69-8F6F1F04BDE3}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {909B66FA-25E6-4822-80D1-34E80A713897}
+	EndGlobalSection
+EndGlobal
